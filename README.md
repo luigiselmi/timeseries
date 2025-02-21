@@ -4,3 +4,4 @@ This repository is dedicated to time series forecasting. The notebooks contains 
 
 * [Beijing Multi-Site Air Quality](beijing_multi-site_air_quality.ipynb)
 * [Metro Interstate Traffic Volume Forecasting (Part 1)](traffic_forecast_part_1.ipynb)
+* [Metro Interstate Traffic Volume Forecasting (Part 2)](traffic_forecast_part_2.ipynb)
