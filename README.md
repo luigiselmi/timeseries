@@ -18,6 +18,7 @@ The book showcases several classical time series algorithms such as MA, ARMA, AR
 * [Autoregressive LSTM](autoregressive_lstm.ipynb)
 * [1D CNN for Time Series](cnn_timeseries.ipynb)
 * [Feature engineering and time encoding](preprocessed_traffic_dataset.ipynb)
+* [Time series data preprocessing](data_preprocessing.ipynb)
 * [FAOSTAT Time Series](https://github.com/luigiselmi/climate/blob/main/iia/fao/faostat.ipynb)
 
 ### Chollet - Deep Learning with Python, 2nd Edition
