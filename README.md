@@ -1,6 +1,13 @@
 Time Series
 ===========
-This repository is dedicated to time series forecasting. The notebooks contain examples in different domains, such as climate, air quality, finance, traffic, and models, from linear, stationary, non-stationary, seasonal models to deep learning models. The links in the following list refer to notebooks in this repository or in other repositories that are related to time series. The notebooks are based on the following books and tutorials:
+This repository is dedicated to time series forecasting. The notebooks contain examples in different domains, such as climate, air quality, finance, traffic, and models, from linear, stationary, non-stationary, seasonal models to deep learning models. Algorithms for time series forecasting used in the notebooks can be divided into two groups
+
+1. Classic algorithms such as moving average (MA) and autoregressive moving average (ARMA)
+2. Deep learning algorithms such as 1D CNN, LSTM, Transformers
+
+Classic algorithms are based on polynomials that are fitted on the datasets to detect patterns such as trends, cycles, and random noise. The pros are simplicity and explainability, the cons is the short time window that can be learnt by these algorithms. Deep learning algorithms are better at finding more complex and longer patterns than linear trends and cycles. The cons of deep learning algorithms is the higher complexity to set up and train the models and lack of explainability.   
+
+The links in the following list refer to notebooks in this repository or in other repositories that are related to time series. The notebooks are based on the following books and tutorials:
 
 ### Peixeiro - Time Series Forecasting in Python
 The book showcases several classical time series algorithms such as MA, ARMA, ARIMA, SARIMA, and deep learning models such as LSTM, and frameworks based on [statsmodel](https://www.statsmodels.org/stable/index.html) and TensorFlow/Keras
