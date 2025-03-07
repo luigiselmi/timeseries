@@ -2,14 +2,35 @@ Time Series
 ===========
 This repository is dedicated to time series forecasting. The notebooks contain examples in different domains, such as climate, air quality, finance, traffic, and models, from linear, stationary, non-stationary, seasonal models to deep learning models. The links in the following list refer to notebooks in this repository or in other repositories that are related to time series. The notebooks are based on the following books and tutorials:
 
-## 
+### Peixeiro - Time Series Forecasting in Python
+The book showcases several classical time series algorithms such as MA, ARMA, ARIMA, SARIMA, and deep learning models such as LSTM, and frameworks based on [statsmodel](https://www.statsmodels.org/stable/index.html) and TensorFlow/Keras
+
 * [Beijing Multi-Site Air Quality](beijing_multi-site_air_quality.ipynb)
 * [Metro Interstate Traffic Volume Forecasting (Part 1)](traffic_forecast_part_1.ipynb)
 * [Metro Interstate Traffic Volume Forecasting (Part 2)](traffic_forecast_part_2.ipynb)
 * [FAOSTAT Time Series](https://github.com/luigiselmi/climate/blob/main/iia/fao/faostat.ipynb)
 
+### Chollet - Deep Learning with Python, 2nd Edition
+This book contains 3 chapters dedicated to time series and text processing based on deep learning, LSTM, Transformers. The examples, based on TensorFlow/Keras, have been tested in the [dl_tensorflow](https://github.com/luigiselmi/dl_tensorflow) repository. 
 
-## Textbooks
+### Glassner - Deep Learning - A Visual Approach
+This book contains a chapter about Recurrent Neural Networks with examples based on TensorFlow/Keras
+* [Chapter 19: RNNs - Notebook 5: Sunspots](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/blob/main/Notebooks/Chapter19-RNNs/Chapter19-RNNs-5-Sunspots.ipynb)
+
+### Korstanje - Advanced Forecasting with Python
+This is a book, similar to Peixeiro's, with chapeters dedicated to classical and deep learning algorithms for time series, with examples based on statsmodel and TensorFlow/Keras
+* [Advanced Forecasting with Python - GitHub repository](https://github.com/Apress/advanced-forecasting-python/tree/main)
+
+### TensorFlow Tutorials
+* [Time Series Forecasting](https://www.tensorflow.org/tutorials/structured_data/time_series)
+
+## Classic Textbooks
+These textbooks describe the classical algorithms for time series.
 * [Box, Jenkins, Reinsel, Ljung - Time Series Analysis - Forecasting and Control, 5th Edition](https://www.amazon.com/Time-Analysis-Forecasting-George-Box/dp/1118675029)
 * [Brockwell, Davis - Introduction to Time Series and Forecasting, 3rd Edition](https://link.springer.com/book/10.1007/978-3-319-29854-2)
 * [Montgomery, Jennings, Kulahci - Introduction to Time Series Analysis and Forecasting, 2nd Edition](https://www.amazon.com/Introduction-Analysis-Forecasting-Probability-Statistics/dp/1118745116)
+* [Hyndman, Athanasopoulos - Forecasting: Principles and Practice, 3rd Edition](https://otexts.com/fpp3/) (Free online book with videos and examples based on R)
+
+## Blog posts and articles
+* [Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [Brownlee - Multivariate Time Series Forecasting with LSTMs in Keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
