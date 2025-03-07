@@ -15,6 +15,9 @@ The book showcases several classical time series algorithms such as MA, ARMA, AR
 * [Beijing Multi-Site Air Quality](beijing_multi-site_air_quality.ipynb)
 * [Metro Interstate Traffic Volume Forecasting (Part 1)](traffic_forecast_part_1.ipynb)
 * [Metro Interstate Traffic Volume Forecasting (Part 2)](traffic_forecast_part_2.ipynb)
+* [Autoregressive LSTM](autoregressive_lstm.ipynb)
+* [1D CNN for Time Series](cnn_timeseries.ipynb)
+* [Feature engineering and time encoding](preprocessed_traffic_dataset.ipynb)
 * [FAOSTAT Time Series](https://github.com/luigiselmi/climate/blob/main/iia/fao/faostat.ipynb)
 
 ### Chollet - Deep Learning with Python, 2nd Edition
