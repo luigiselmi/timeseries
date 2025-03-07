@@ -11,11 +11,12 @@ The book showcases several classical time series algorithms such as MA, ARMA, AR
 * [FAOSTAT Time Series](https://github.com/luigiselmi/climate/blob/main/iia/fao/faostat.ipynb)
 
 ### Chollet - Deep Learning with Python, 2nd Edition
-This book contains 3 chapters dedicated to time series and text processing based on deep learning, LSTM, Transformers. The examples, based on TensorFlow/Keras, have been tested in the [dl_tensorflow](https://github.com/luigiselmi/dl_tensorflow) repository. 
+This book contains 3 chapters dedicated to time series and natural language processing based on deep learning, LSTM, Transformers. The examples, based on TensorFlow/Keras, have been tested in the [dl_tensorflow](https://github.com/luigiselmi/dl_tensorflow) repository. 
 
 ### Glassner - Deep Learning - A Visual Approach
-This book contains a chapter about Recurrent Neural Networks with examples based on TensorFlow/Keras
+This book contains a chapter about Recurrent Neural Networks, and a chapter about transformers and the attention mechanism, with examples based on TensorFlow/Keras
 * [Chapter 19: RNNs - Notebook 5: Sunspots](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/blob/main/Notebooks/Chapter19-RNNs/Chapter19-RNNs-5-Sunspots.ipynb)
+* [Chapter 20: Attention and Transformers](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Notebooks/Chapter20-AttentionAndTransformers)
 
 ### Korstanje - Advanced Forecasting with Python
 This is a book, similar to Peixeiro's, with chapeters dedicated to classical and deep learning algorithms for time series, with examples based on statsmodel and TensorFlow/Keras
