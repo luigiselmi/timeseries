@@ -19,6 +19,7 @@ The book showcases several classical time series algorithms such as MA, ARMA, AR
 * [1D CNN for Time Series](cnn_timeseries.ipynb)
 * [Feature engineering and time encoding](preprocessed_traffic_dataset.ipynb)
 * [Time series data preprocessing](data_preprocessing.ipynb)
+* [Forecasting with Prophet](forecasting_with_prophet.ipynb)
 * [FAOSTAT Time Series](https://github.com/luigiselmi/climate/blob/main/iia/fao/faostat.ipynb)
 
 ### Chollet - Deep Learning with Python, 2nd Edition
@@ -43,6 +44,14 @@ These textbooks describe the classical algorithms for time series.
 * [Montgomery, Jennings, Kulahci - Introduction to Time Series Analysis and Forecasting, 2nd Edition](https://www.amazon.com/Introduction-Analysis-Forecasting-Probability-Statistics/dp/1118745116)
 * [Hyndman, Athanasopoulos - Forecasting: Principles and Practice, 3rd Edition](https://otexts.com/fpp3/) (Free online book with videos and examples based on R)
 
+### Textbooks on Time Series for Finance
+* [Tsay - Analysis of Financial Time Series, 3rd Edition](https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359)
+* [Ghysels, Marcellino - Applied Economic Forecasting using Time Series Methods](https://www.amazon.it/Applied-Economic-Forecasting-using-Methods/dp/0190622016)
+
+### Textbooks on Time Series for Weather and Climate
+* [Mudelsee - Climate Time Series Analysis, 2nd Edition](https://link.springer.com/book/10.1007/978-3-319-04450-7)
+* [Duchon, Hale - Time Series Analysis in Meteorology and Climatology: An Introduction](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119953104)
+  
 ## Blog posts and articles
 * [Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Brownlee - Multivariate Time Series Forecasting with LSTMs in Keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
