@@ -5,7 +5,34 @@ This repository is dedicated to time series forecasting. The notebooks contain e
 1. Classic algorithms such as moving average (MA) and autoregressive moving average (ARMA)
 2. Deep learning algorithms such as 1D CNN, LSTM, Transformers
 
-Classic algorithms are based on polynomials that are fitted on the datasets to detect patterns such as trends, cycles, and random noise. The pros are simplicity and explainability, the cons is the short time window that can be learnt by these algorithms. Deep learning algorithms are better at finding more complex and longer patterns than linear trends and cycles. The cons of deep learning algorithms is the higher complexity to set up and train the models and lack of explainability.   
+Classic algorithms are based on polynomials that are fitted on the datasets to detect patterns such as trends, cycles, and random noise. The pros are simplicity and explainability, the cons is the short time window that can be learnt by these algorithms. Time series model are divide in univariate and multivariate. 
+### Univariate time series models
+These are time series that may use one or more predictors, of which only one of them is also the predictand. The other predictors are called exogenous variables. A further subdivision is between stationary and non-stationary time series.
+
+#### Univariate stationary time series models 
+The classic models for univariate stationary time series are
+
+* Moving Average, MA(q)
+* Autoregressive, AR(p)
+* Autoregressive Moving Average, ARMA(p,q)
+
+#### Univariate non-stationary time series models
+Non-stationary time series contains trends and seasonal patterns that must be processed separately
+
+* Autoregressive Integrated Moving Average, ARIMA(p,d,q)
+* Seasonal ARIMA, SARIMA(p,d,q)()(P,D,Q)m
+* Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors model, SAIMAX(p,d,q)()(P,D,Q)m
+
+### Multivariate time series models
+These are time series that may use one or more predictors and more than one predictands
+
+* Vector Autoregression, VAR
+
+### Granger causality 
+For univariate and multivariate time series with more than one predictors it is useful to determine the dependency of the predictand from each of the predictors.
+
+### Deep learning time series models
+Deep learning algorithms are better at finding more complex and longer patterns than linear trends and cycles. The cons of deep learning algorithms is the higher complexity to set up and train the models and lack of explainability.   
 
 The links in the following list refer to notebooks in this repository or in other repositories that are related to time series. The notebooks are based on the following books and tutorials:
 
