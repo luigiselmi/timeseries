@@ -22,7 +22,7 @@ Non-stationary time series contains trends and seasonal patterns that must be pr
 
 * Autoregressive Integrated Moving Average, ARIMA(p,d,q)
 * Seasonal ARIMA, SARIMA(p,d,q)(P,D,Q)m
-* Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors model, SAIMAX(p,d,q)(P,D,Q)m
+* Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors model, SARIMAX(p,d,q)(P,D,Q)m
 
 ### Multivariate time series models
 These are time series that may use one or more predictors and more than one predictands
