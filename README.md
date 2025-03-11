@@ -5,7 +5,8 @@ This repository is dedicated to time series forecasting. The notebooks contain e
 1. Classic algorithms such as moving average (MA) and autoregressive moving average (ARMA)
 2. Deep learning algorithms such as 1D CNN, LSTM, Transformers
 
-Classic algorithms are based on polynomials that are fitted on the datasets to detect patterns such as trends, cycles, and random noise. The pros are simplicity and explainability, the cons is the short time window that can be learnt by these algorithms. Time series model are divide in univariate and multivariate. 
+Classic algorithms are linear models based on polynomials whose parameters are fitted on the datasets to detect patterns such as trends, cycles, and random noise. The pros are simplicity and explainability, the cons is the short time window that can be learnt by these algorithms. Classical linear time series models are divided in univariate and multivariate. 
+
 ### Univariate time series models
 These are time series that may use one or more predictors, of which only one of them is also the predictand. The other predictors are called exogenous variables. A further subdivision is between stationary and non-stationary time series.
 
@@ -20,7 +21,7 @@ The classic models for univariate stationary time series are
 Non-stationary time series contains trends and seasonal patterns that must be processed separately
 
 * Autoregressive Integrated Moving Average, ARIMA(p,d,q)
-* Seasonal ARIMA, SARIMA(p,d,q)()(P,D,Q)m
+* Seasonal ARIMA, SARIMA(p,d,q)(P,D,Q)m
 * Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors model, SAIMAX(p,d,q)()(P,D,Q)m
 
 ### Multivariate time series models
