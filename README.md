@@ -29,8 +29,11 @@ These are time series that may use one or more predictors and more than one pred
 
 * Vector Autoregression, VAR
 
-### Granger causality 
-For univariate and multivariate time series with more than one predictors it is useful to determine the dependency of the predictand from each of the predictors.
+### Tests for time series  
+* Stationarity: [Dickey-Fuller test](https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test)
+* Model selection: [Akaike information criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion)
+* Residuals correlation: [Ljung-Box test](https://en.wikipedia.org/wiki/Ljung%E2%80%93Box_test)
+* [Granger causality](https://en.wikipedia.org/wiki/Granger_causality): for univariate and multivariate time series with more than one predictors it is useful to determine the relationships of the predictands.
 
 ### Non-linear time series models (deep learning)
 Deep learning algorithms are better at finding more complex and longer patterns than linear trends and cycles. The cons of deep learning algorithms is the higher complexity to set up and train the models and lack of explainability.   
@@ -51,6 +54,7 @@ The book showcases several classical time series algorithms such as MA, ARMA, AR
 * [FAOSTAT Time Series](https://github.com/luigiselmi/climate/blob/main/iia/fao/faostat.ipynb)
 * [Cycles in time series](cycles_in_time_series.ipynb)
 * [External variables](external_variables.ipynb)
+
 ### Chollet - Deep Learning with Python, 2nd Edition
 This book contains 3 chapters dedicated to time series and natural language processing based on deep learning, LSTM, Transformers. The examples, based on TensorFlow/Keras, have been tested in the [dl_tensorflow](https://github.com/luigiselmi/dl_tensorflow) repository. 
 
