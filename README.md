@@ -48,6 +48,7 @@ The book showcases several classical time series algorithms such as MA, ARMA, AR
 * [Time series data preprocessing](data_preprocessing.ipynb)
 * [Forecasting with Prophet](forecasting_with_prophet.ipynb)
 * [FAOSTAT Time Series](https://github.com/luigiselmi/climate/blob/main/iia/fao/faostat.ipynb)
+* [Cycles in time series](cycles_in_time_series.ipynb)
 
 ### Chollet - Deep Learning with Python, 2nd Edition
 This book contains 3 chapters dedicated to time series and natural language processing based on deep learning, LSTM, Transformers. The examples, based on TensorFlow/Keras, have been tested in the [dl_tensorflow](https://github.com/luigiselmi/dl_tensorflow) repository. 
