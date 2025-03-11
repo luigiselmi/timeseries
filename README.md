@@ -2,8 +2,8 @@ Time Series
 ===========
 This repository is dedicated to time series forecasting. The notebooks contain examples in different domains, such as climate, air quality, finance, traffic, and models, from linear, stationary, non-stationary, seasonal models to deep learning models. Algorithms for time series forecasting used in the notebooks can be divided into two groups
 
-1. Classic algorithms such as moving average (MA) and autoregressive moving average (ARMA)
-2. Deep learning algorithms such as 1D CNN, LSTM, Transformers
+1. Classic linear algorithms such as moving average (MA) and autoregressive moving average (ARMA)
+2. Non-linear (deep learning) algorithms such as 1D CNN, LSTM, Transformers
 
 Classic algorithms are linear models based on polynomials whose parameters are fitted on the datasets to detect patterns such as trends, cycles, and random noise. The pros are simplicity and explainability, the cons is the short time window that can be learnt by these algorithms. Classical linear time series models are divided in univariate and multivariate. 
 
