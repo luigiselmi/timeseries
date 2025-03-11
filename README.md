@@ -32,7 +32,7 @@ These are time series that may use one or more predictors and more than one pred
 ### Granger causality 
 For univariate and multivariate time series with more than one predictors it is useful to determine the dependency of the predictand from each of the predictors.
 
-### Deep learning time series models
+### Non-linear time series models (deep learning)
 Deep learning algorithms are better at finding more complex and longer patterns than linear trends and cycles. The cons of deep learning algorithms is the higher complexity to set up and train the models and lack of explainability.   
 
 The links in the following list refer to notebooks in this repository or in other repositories that are related to time series. The notebooks are based on the following books and tutorials:
