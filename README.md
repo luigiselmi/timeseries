@@ -43,6 +43,8 @@ The links in the following list refer to notebooks in this repository or in othe
 ### Peixeiro - Time Series Forecasting in Python
 The book showcases several classical time series algorithms such as MA, ARMA, ARIMA, SARIMA, and deep learning models such as LSTM, and frameworks based on [statsmodel](https://www.statsmodels.org/stable/index.html) and TensorFlow/Keras
 
+* [Global Mean Temperature Anomalies](https://github.com/luigiselmi/climate/blob/main/globaltemp/global_temperature_anomaly.ipynb)
+* [Multivariate time series: the VAR model](https://github.com/luigiselmi/finstat/blob/main/energy_price_inflation.ipynb)
 * [Beijing Multi-Site Air Quality](beijing_multi-site_air_quality.ipynb)
 * [Metro Interstate Traffic Volume Forecasting (Part 1)](traffic_forecast_part_1.ipynb)
 * [Metro Interstate Traffic Volume Forecasting (Part 2)](traffic_forecast_part_2.ipynb)
