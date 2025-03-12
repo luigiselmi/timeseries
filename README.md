@@ -32,7 +32,7 @@ These are time series that may use one or more predictors and more than one pred
 ## Tests for time series  
 * Stationarity: [Dickey-Fuller test](https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test)
 * Model selection: [Akaike information criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion)
-* Residuals correlation: [Ljung-Box test](https://en.wikipedia.org/wiki/Ljung%E2%80%93Box_test)
+* Residuals variance and correlation: [Ljung-Box test](https://en.wikipedia.org/wiki/Ljung%E2%80%93Box_test)
 * [Granger causality](https://en.wikipedia.org/wiki/Granger_causality): for multivariate time series, is used to determine the relationships between the predictands.
 
 ## Non-linear time series models (deep learning)
