@@ -33,7 +33,7 @@ These are time series that may use one or more predictors and more than one pred
 * Stationarity: [Dickey-Fuller test](https://en.wikipedia.org/wiki/Dickey%E2%80%93Fuller_test)
 * Model selection: [Akaike information criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion)
 * Residuals correlation: [Ljung-Box test](https://en.wikipedia.org/wiki/Ljung%E2%80%93Box_test)
-* [Granger causality](https://en.wikipedia.org/wiki/Granger_causality): for univariate and multivariate time series with more than one predictors it is used to determine the relationships of the predictands.
+* [Granger causality](https://en.wikipedia.org/wiki/Granger_causality): for multivariate time series, is used to determine the relationships between the predictands.
 
 ## Non-linear time series models (deep learning)
 Deep learning algorithms are better at finding more complex and longer patterns than linear trends and cycles. The cons of deep learning algorithms is the higher complexity to set up and train the models and lack of explainability.   
