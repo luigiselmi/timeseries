@@ -87,6 +87,7 @@ These textbooks describe the classical algorithms for time series.
 ### Textbooks on Time Series for Weather and Climate
 * [Mudelsee - Climate Time Series Analysis, 2nd Edition](https://link.springer.com/book/10.1007/978-3-319-04450-7)
 * [Duchon, Hale - Time Series Analysis in Meteorology and Climatology: An Introduction](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119953104)
+* [Privalsky - Time Series Analysis in Climatology and Related Sciences](https://link.springer.com/book/10.1007/978-3-030-58055-1)  
   
 ## Blog posts and articles
 * [Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
