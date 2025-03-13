@@ -81,8 +81,9 @@ These textbooks describe the classical algorithms for time series.
 * [Hyndman, Athanasopoulos - Forecasting: Principles and Practice, 3rd Edition](https://otexts.com/fpp3/) (Free online book with videos and examples based on R)
 
 ### Textbooks on Time Series for Finance
-* [Tsay - Analysis of Financial Time Series, 3rd Edition](https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359)
+* [Tsay - Analysis of Financial Time Series, 3rd Edition](https://www.amazon.com/Analysis-Financial-Time-Ruey-Tsay/dp/0470414359)  
 * [Ghysels, Marcellino - Applied Economic Forecasting using Time Series Methods](https://www.amazon.it/Applied-Economic-Forecasting-using-Methods/dp/0190622016)
+* [Cipra - Time Series in Economics and Finance](https://link.springer.com/book/10.1007/978-3-030-46347-2)  
 
 ### Textbooks on Time Series for Weather and Climate
 * [Mudelsee - Climate Time Series Analysis, 2nd Edition](https://link.springer.com/book/10.1007/978-3-319-04450-7)
