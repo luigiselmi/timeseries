@@ -73,7 +73,7 @@ This is a book, similar to Peixeiro's, with chapeters dedicated to classical and
 ### TensorFlow Tutorials
 * [Time Series Forecasting](https://www.tensorflow.org/tutorials/structured_data/time_series)
 
-## Classic Textbooks
+## Classic Textbooks on Time Series
 These textbooks describe the classical algorithms for time series.
 * [Box, Jenkins, Reinsel, Ljung - Time Series Analysis - Forecasting and Control, 5th Edition](https://www.amazon.com/Time-Analysis-Forecasting-George-Box/dp/1118675029)
 * [Brockwell, Davis - Introduction to Time Series and Forecasting, 3rd Edition](https://link.springer.com/book/10.1007/978-3-319-29854-2)
@@ -88,7 +88,8 @@ These textbooks describe the classical algorithms for time series.
 ### Textbooks on Time Series for Weather and Climate
 * [Mudelsee - Climate Time Series Analysis, 2nd Edition](https://link.springer.com/book/10.1007/978-3-319-04450-7)
 * [Duchon, Hale - Time Series Analysis in Meteorology and Climatology: An Introduction](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119953104)
-* [Privalsky - Time Series Analysis in Climatology and Related Sciences](https://link.springer.com/book/10.1007/978-3-030-58055-1)  
+* [Privalsky - Time Series Analysis in Climatology and Related Sciences](https://link.springer.com/book/10.1007/978-3-030-58055-1)
+* [von Storch, Zwiers - Statistical Analysis in Climate Research](http://hvonstorch.de/klima/books/block/sz.pdf) (freely available from the author's website)
   
 ## Blog posts and articles
 * [Karpathy - The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
